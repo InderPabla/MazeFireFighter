@@ -6,4 +6,13 @@
 #Front View
 ![Alt text](https://github.com/InderPabla/MazeFireFighter/blob/master/Front_View.jpg "Front View")
 
+#Side View
+![Alt text](https://github.com/InderPabla/MazeFireFighter/blob/master/Side_View.jpg "Side View")
+
+#Top View
+![Alt text](https://github.com/InderPabla/MazeFireFighter/blob/master/Top_View.jpg "Top View")
+
+#Under View
+![Alt text](https://github.com/InderPabla/MazeFireFighter/blob/master/Under_View.jpg "Under View")
+
 
